@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 - 🌱 I’m currently learning **React, Node.js, and cloud technologies**.
 - 🤝 I’m looking to collaborate on **open source projects** that make a difference.
 - 💬 Ask me about anything related to **Python, JavaScript, or web development**.
-- 📫 How to reach me: [deepti@example.com](mailto:deeptimayeep348@gmail.com)
+- 📫 How to reach me: [deeptimayeep348@gmail.com](mailto:deeptimayeep348@gmail.com)
 
 ---
 
@@ -39,9 +39,8 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 
 ## 🌟 Projects
 
-- [**Project 1**](https://github.com/DeeptiOP/project1) - A web application for managing tasks.
-- [**Project 2**](https://github.com/DeeptiOP/project2) - An e-commerce platform built with React and Node.js.
-- [**Project 3**](https://github.com/DeeptiOP/project3) - A machine learning project for predicting stock prices.
+- [**Project 1**](https://github.com/DeeptiOP/EDU-Grievance-system) - A grivance management system with various functions 
+- [**Project 2**](https://github.com/DeeptiOP/tic-tac-toe) - A tic tac toe game built with python.
 
 ---
 
