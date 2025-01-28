@@ -47,8 +47,10 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 
 ## 🌟 Projects
 
+- [**Project 1**](https://lexa-multi-pdf.streamlit.app) - Lexa_multi_PDF_Agent with screen recoring and shearing feature
 - [**Project 1**](https://github.com/DeeptiOP/EDU-Grievance-system) - A grievance management system with various functions 
-- [**Project 2**](https://github.com/DeeptiOP/tic-tac-toe) - A tic tac toe game built with Python.
+- [**Project 3**](https://github.com/DeeptiOP/tic-tac-toe) - A tic tac toe game built with Python.
+- 
 
 ---
 
