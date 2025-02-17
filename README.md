@@ -69,7 +69,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
   <a href="https://www.linkedin.com/in/deeptimayee-pradhan-123377298/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B559kqAovR123AIplCx4N%2FA%3D%3D" target="_blank" style="float: left; margin-right: 10px; margin-bottom: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/deepti_mayee_pradhan?igsh=d3ZxZDhzdWc4bTQw" target="_blank" style="float: left; margin-right: 10px; margin-bottom: 10px;">
+  <a href="https://www.instagram.com/" target="_blank" style="float: left; margin-right: 10px; margin-bottom: 10px;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://deeptimayeeportfolio.netlify.app/" target="_blank" style="float: left; margin-right: 10px; margin-bottom: 10px;">
