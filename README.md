@@ -16,14 +16,14 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 
 ## 🚀 Find Me
 <p align="center">
-  <a href="https://www.geeksforgeeks.org/user/deeptima3bo0/" target="_blank" style="float: left; margin-right: 10px; margin-bottom: 10px;">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=GeeksforGeeks&logoColor=white&labelColor=0F9D58&color=0F9D58&border_radius=70" alt="GeeksForGeeks"/>
-    
-  <a href="https://deeptimayeeportfolio.netlify.app/" target="_blank" style="float: left; margin-right: 10px; margin-bottom: 10px;">
+  <a href="https://www.geeksforgeeks.org/user/deeptima3bo0/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=GeeksforGeeks&logoColor=white" alt="GeeksForGeeks"/>
+  </a>
+
+  <a href="https://deeptimayeeportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/>
   </a>
 </p>
-
 
 ## 🛠️ Skills
 
