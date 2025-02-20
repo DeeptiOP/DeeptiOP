@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer always eager to learn and contribute to the tech community.
 
 ---
+<img align="right" alt="Coding" width="350" src="https://c.tenor.com/Bpv9wTLKMskAAAAC/computer-nerds.gif">
 
 ## 🚀 About Me
 
