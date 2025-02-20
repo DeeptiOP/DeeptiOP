@@ -65,11 +65,18 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 - 
 
 ---
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeeptiOP&show_icons=true&theme=radical" alt="Deepti's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeeptiOP&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeeptiOP&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Deepti's GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeeptiOP&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
