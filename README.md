@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 ## 🚀 Find Me
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/deeptima3bo0/" target="_blank" style="float: left; margin-right: 10px; margin-bottom: 10px;">
-    <img src="https://images.yourstory.com/cs/images/companies/bZAmg2J7400x4002-1688540598281.jpg?fm=png&auto=format&ar=1:1&mode=fill&fill=solid" alt="GeeksForGeeks"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=GeeksforGeeks&logoColor=white&labelColor=0F9D58&color=0F9D58&border_radius=70" alt="GeeksForGeeks"/>
     
   <a href="https://deeptimayeeportfolio.netlify.app/" target="_blank" style="float: left; margin-right: 10px; margin-bottom: 10px;">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/>
