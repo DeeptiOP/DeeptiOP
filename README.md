@@ -56,7 +56,11 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 </p>
 
 ---
+### Certifications
+- [AWS Certified](https://www.mindluster.com/storage/cer/7c5842b5.jpg) - Click to open certificate
+- [Python Certified](#) - Click to open certificate
 
+---
 ## 🌟 Projects
 
 - [**Project 1**](https://lexa-multi-pdf.streamlit.app) - Lexa_multi_PDF_Agent with screen recoring and shearing feature
