@@ -59,6 +59,8 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 ### Certifications
 - [AWS Certified](rhttps://www.mindluster.com/storage/cer/7c5842b5.jpg) - Click to open certificate
 - [Python Certified](#) - Click to open certificate
+-  [HTML5 and CSS3 certified ](#) - Click to open certificate
+-  [Chatgpt expert](#) - Click to open certificate
 
 ---
 ## 🌟 Projects
