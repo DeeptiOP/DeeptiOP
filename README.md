@@ -56,8 +56,8 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 </p>
 
 ---
-## Resume
-[Download My Resume](resume/DeeptiOP-Resume.pdf)
+### Resume
+[Download My Resume](Deeptimayee_pradhan_20250222_143243_0000_pdf_20250222_144432_0000.pdf)
 
 ---
 ### Certifications
